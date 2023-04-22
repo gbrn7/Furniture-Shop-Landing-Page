@@ -870,6 +870,11 @@
     font-weight: 500;
 }
 
+.foot a{
+    text-decoration: none;
+    color: white;
+}
+
 /* Footer end */
 @media screen and (max-width : 768px){
     .navbar{
